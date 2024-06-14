@@ -14,7 +14,7 @@ jobs:
     - name: Make a commit
       run: |
         date >> README.md
-        git config --global user.name 'Jai Prakash'
+        git config --global user.name 'jaiprakashoffcl'
         git config --global user.email 'jaiprakash292033@gmail.com'
         git add README.md
         git commit -m "Daily commit"
