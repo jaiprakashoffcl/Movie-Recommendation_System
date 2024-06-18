@@ -31,4 +31,3 @@ I value your feedback! If you have any questions, suggestions, or issues, please
 Enjoy your cinematic journey with Movie Match!
 
 ----
-
