@@ -15,6 +15,7 @@ How It Works
 - Close Match Algorithm: Movie Match uses the Close Match algorithm to identify approximate string matches, accommodating minor input variations such as typos or incomplete titles.
 - Personalized Recommendations: Input your favorite movie, and Movie Match will provide you with a curated list of movie recommendations tailored just for you.
 
+
 ## Usage
 
 To get your personalized movie recommendations:
